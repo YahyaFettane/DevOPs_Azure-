@@ -267,7 +267,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Task Master </h1>
+        <h1>Task Master prooo </h1>
         <p class="subtitle">Organisez votre vie, une tâche à la fois</p>
         
         <div class="stats">
